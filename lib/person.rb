@@ -1,1 +1,5 @@
-def name=Person
+class Person
+  
+  
+  
+end
